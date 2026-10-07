@@ -7,6 +7,6 @@ I Created LOS_days feature
 I Found top cost drivers: Diabetes, Obesity, Arthritis = 73% of spend
 
 # Files
-healthcare_clean.csv - cleaned
+Dova Hospital_clean dataset.csv - cleaned
 
-Healthcare dataset.ipynb - full cleaning + EDA
+Dova Hospital Data Cleaning with Python.ipynb - full cleaning + EDA
